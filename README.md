@@ -15,14 +15,14 @@ Google Chrome browser installed on your system.
 Installation Steps
 To install the extension, follow these steps:
 
-Open Google Chrome and type chrome://extensions/ in the address bar.<br />
-Enable the Developer mode by clicking the toggle switch in the top right corner of the Extensions page.<br />
-Click on the "Load unpacked" button.<br />
-Select the folder containing the extension files from your local repository.<br />
+1.Open Google Chrome and type chrome://extensions/ in the address bar.<br />
+2.Enable the Developer mode by clicking the toggle switch in the top right corner of the Extensions page.<br />
+3.Click on the "Load unpacked" button.<br />
+4.Select the folder containing the extension files from your local repository.<br />
 Once the folder is selected, click on "Open" to load the extension.<br />
-The extension will now appear in the list of installed extensions.<br />
-To activate the extension, toggle the switch next to it.<br />
-You can now see the extension icon in the toolbar.<br />
-Click on the puzzle icon in the toolbar to access the extensions menu.<br />
-Find the installed extension in the menu and click on it to use its features.<br />
+5.The extension will now appear in the list of installed extensions.<br />
+6.To activate the extension, toggle the switch next to it.<br />
+7.You can now see the extension icon in the toolbar.<br />
+8.Click on the puzzle icon in the toolbar to access the extensions menu.<br />
+9.ind the installed extension in the menu and click on it to use its features.<br />
 Congratulations! You have successfully added the extension to your Chrome browser. The extension is now ready to use on your system.
