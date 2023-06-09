@@ -15,7 +15,7 @@ Google Chrome browser installed on your system.
 Installation Steps
 To install the extension, follow these steps:
 
-Open Google Chrome and type chrome://extensions/ in the address bar.__
+Open Google Chrome and type chrome://extensions/ in the address bar.<br />
 Enable the Developer mode by clicking the toggle switch in the top right corner of the Extensions page.__
 Click on the "Load unpacked" button.__
 Select the folder containing the extension files from your local repository.__
